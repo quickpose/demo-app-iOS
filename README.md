@@ -2,6 +2,14 @@
 
 The official demo app for [QuickPose](https://quickpose.ai) — an iOS SDK for real-time AI pose estimation, fitness rep counting, and motion analysis, built on MediaPipe.
 
+<p align="center">
+  <img src="images/landing.png" width="30%" alt="Landing page with feature categories" />
+  &nbsp;
+  <img src="images/fitness.png" width="30%" alt="Fitness exercises grouped by muscle group" />
+  &nbsp;
+  <img src="images/overlay-colours.png" width="30%" alt="Overlay colour style presets" />
+</p>
+
 Pick a feature from the landing page and try it live with your camera:
 
 | Category | What it shows |
